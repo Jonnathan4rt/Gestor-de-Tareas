@@ -4,15 +4,15 @@
 
 ## Características
 
-[url=https://postimg.cc/ftjdB4m9][img]https://i.postimg.cc/ftjdB4m9/1.png[/img][/url]
+[![1.png](https://i.postimg.cc/HxFtWdLB/1.png)](https://postimg.cc/ftjdB4m9)
 
-[url=https://postimg.cc/kDs8Smnr][img]https://i.postimg.cc/kDs8Smnr/2.png[/img][/url]
+[![2.png](https://i.postimg.cc/QxGqR8wM/2.png)](https://postimg.cc/kDs8Smnr)
 
-[url=https://postimg.cc/LnsPBbXJ][img]https://i.postimg.cc/LnsPBbXJ/3.png[/img][/url]
+[![3.png](https://i.postimg.cc/VLqF1yPW/3.png)](https://postimg.cc/LnsPBbXJ)
 
-[url=https://postimg.cc/QHnT6J90][img]https://i.postimg.cc/QHnT6J90/4.png[/img][/url]
+[![4.png](https://i.postimg.cc/cLdBLDsy/4.png)](https://postimg.cc/QHnT6J90)
 
-[url=https://postimg.cc/XrGytB93][img]https://i.postimg.cc/XrGytB93/5.png[/img][/url]
+[![5.png](https://i.postimg.cc/cLTMgQHK/5.png)](https://postimg.cc/XrGytB93)
 
 
 
